@@ -1,8 +1,5 @@
-name = input("What is your name?") #sting
+name = input("What is your name?") #string
 age = int(input("How old are you?"))
-rating = int(input("What are your gaming skills from 1-10?"))
+rating = int(input("how cracked are you at fortnite from 1-10?"))
 
-if rating == 5 > rating: thing = 'Good'
-else: thing = "Bad"
-
-print ("Your name is " + name + " You are " + str(age) + " Years old! It looks like your gaming skills are a " + str(thing) + " out of 10") 
+print("Flynn, " + "you are " + str(age) + " years old! It looks like your gaming skills are a " + str(rating) + " out of 10" )
