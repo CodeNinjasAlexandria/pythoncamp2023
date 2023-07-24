@@ -1,0 +1,10 @@
+noun = input("Give me a noun.")
+food = input("Give me a food.")
+adjective = input("Give me a adjective.")
+place = input("Give me a place.")
+noun1 = input("Give me a noun.")
+
+print("Coral " + noun + " Purple With A " + noun1 + ".")
+print("Orange ate " + food + ".")
+print("Red was in " + place + ".")
+print("Purple was " + adjective + ".")
